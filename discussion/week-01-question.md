@@ -1,7 +1,7 @@
 ---
 id: w01-yanxif2-agent-bug-responsibility
 title: "Who owns a coding agent's bugs?"
-author: "yanxif2 (yanxif2)"
+author: "Yanxi Feng (yanxif2)"
 ---
 
 ## Week 1 Discussion Question
